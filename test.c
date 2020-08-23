@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<math.h>
+33333
 int main() {
 	double p, r, n;
 	r = 0.1;
