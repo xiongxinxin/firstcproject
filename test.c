@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<math.h>
+我是github,修改日期2020-8-24
 int main() {
 	double p, r, n;
 	r = 0.1;
